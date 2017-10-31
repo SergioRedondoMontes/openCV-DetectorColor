@@ -1,0 +1,6 @@
+framework module Pods_OpenCVSample_iOS {
+  umbrella header "Pods-OpenCVSample_iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
